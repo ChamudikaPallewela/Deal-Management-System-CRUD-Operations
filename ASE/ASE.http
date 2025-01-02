@@ -1,0 +1,6 @@
+@ASE_HostAddress = http://localhost:5130
+
+GET {{ASE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
