@@ -61,8 +61,9 @@ This project is a Deal Management System built using **ASP.NET Core** and **Enti
 ## Project Setup
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/ChamudikaPallewela/Deal-Management-System-CRUD-Operations-
-cd <repository-folder>
+git clone https://github.com/ChamudikaPallewela/Deal-Management-System-CRUD-Operations
+cd Deal-Management-System-CRUD-Operations
+cd ASE
 ```
 
 ### **2. Set Up the Database**
